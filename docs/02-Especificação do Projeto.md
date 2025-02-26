@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 # Personas  
 
-| Nome             | Idade | Profissão                        | Frustrações                                                                 | Expectativas                                                                 |
+| Nome             | Idade | Descrição                        | Frustrações                                                                 | Expectativas                                                                 |
 |-----------------|------|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | João Souza     | 35   | Analista de TI                 | Dificuldade em encontrar prestadores confiáveis; demora na resposta para orçamentos; falta de transparência na qualidade dos serviços. | Encontrar profissionais qualificados rapidamente; visualizar avaliações e histórico dos prestadores; ter um canal de comunicação eficiente. |
 | Mariana Ferreira | 28   | Designer de interiores        | Pouca visibilidade no mercado; dificuldade em gerenciar solicitações de clientes; problemas na comunicação com clientes. | Plataforma que facilite a gestão dos pedidos; um espaço para exibir portfólio e avaliações; receber pagamentos de forma organizada. |
