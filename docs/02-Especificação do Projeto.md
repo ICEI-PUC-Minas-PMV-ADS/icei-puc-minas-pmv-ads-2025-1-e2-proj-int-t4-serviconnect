@@ -12,9 +12,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | Nome             | Idade | Descrição                        | Frustrações                                                                 | Expectativas                                                                 |
 |-----------------|------|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| João Souza     | 35   | Analista de TI                 | Dificuldade em encontrar prestadores confiáveis; demora na resposta para orçamentos; falta de transparência na qualidade dos serviços. | Encontrar profissionais qualificados rapidamente; visualizar avaliações e histórico dos prestadores; ter um canal de comunicação eficiente. |
-| Mariana Ferreira | 28   | Designer de interiores        | Pouca visibilidade no mercado; dificuldade em gerenciar solicitações de clientes; problemas na comunicação com clientes. | Plataforma que facilite a gestão dos pedidos; um espaço para exibir portfólio e avaliações; receber pagamentos de forma organizada. |
-| Lucas Almeida   | 42   | Dono de empresa de manutenção | Processo demorado para contratar prestadores qualificados; dificuldade em acompanhar o andamento dos serviços; problemas com a qualidade do trabalho entregue. | Plataforma que agilize a contratação; possibilidade de agendar e acompanhar serviços; sistema que garanta prestadores bem avaliados. |
+| João Souza     | 35   | Analista de TI                 | Dificuldade em encontrar prestadores confiáveis; demora na resposta para orçamentos; falta de transparência na qualidade dos serviços. | Encontrar profissionais 
+                                                          qualificados rapidamente; visualizar avaliações e histórico dos prestadores; ter um canal de comunicação eficiente. |
+| Mariana Ferreira | 28   | Designer de interiores        | Pouca visibilidade no mercado; dificuldade em gerenciar solicitações de clientes; problemas na comunicação com clientes. | Plataforma que facilite a gestão dos 
+                                                          pedidos; um espaço para exibir portfólio e avaliações; receber pagamentos de forma organizada. |
+| Lucas Almeida   | 42   | Dono de empresa de manutenção | Processo demorado para contratar prestadores qualificados; dificuldade em acompanhar o andamento dos serviços; problemas com a qualidade do trabalho entregue. | 
+                                                          Plataforma que agilize a contratação; possibilidade de agendar e acompanhar serviços; sistema que garanta prestadores bem avaliados. |
 
 
 Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever suas angústicas, frustrações e expectativas de vida relacionadas ao problema. Além disso, defina uma "aparência" para a persona. Para isso, você poderá utilizar sites como [https://this-person-does-not-exist.com/pt#google_vignette](https://this-person-does-not-exist.com/pt) ou https://thispersondoesnotexist.com/ 
