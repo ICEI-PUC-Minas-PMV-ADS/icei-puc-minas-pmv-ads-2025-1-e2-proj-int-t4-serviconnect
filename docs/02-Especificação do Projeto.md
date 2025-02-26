@@ -20,12 +20,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | Pedro Santos   | 50   | Jardineiro                     | Dificuldade em conseguir novos clientes; problemas com pagamentos atrasados; falta de visibilidade para seus serviços. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro e organizado; espaço para exibir avaliações e fotos de trabalhos realizados. |
 | Carla Menezes  | 33   | Massoterapeuta                 | Concorrência alta no mercado; dificuldade em fidelizar clientes; pouca divulgação do trabalho. | Plataforma que ajude na captação de clientes; agendamento facilitado; espaço para avaliações e feedbacks positivos. |
 
-
-
-Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever suas angústicas, frustrações e expectativas de vida relacionadas ao problema. Além disso, defina uma "aparência" para a persona. Para isso, você poderá utilizar sites como [https://this-person-does-not-exist.com/pt#google_vignette](https://this-person-does-not-exist.com/pt) ou https://thispersondoesnotexist.com/ 
-
-Utilize também como referência o exemplo abaixo:
-
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaClara1.png" alt="Persona1"/>
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
