@@ -13,7 +13,7 @@ Este projeto tem como objetivo desenvolver um sistema de back-end para a gestão
 Fernando Cardoso  
 Gabriel Rodrigues  
 Gabriela Alcântara  
-Raissa Lima <br>
+Rayssa Lima <br>
 Renata Rocha  
 Vinícius Martins  
 
