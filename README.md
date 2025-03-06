@@ -11,10 +11,7 @@ Este projeto tem como objetivo desenvolver um sistema de back-end para a gestão
 ## Integrantes
 
 Fernando Cardoso  
-Gabriel Rodrigues  
-Gabriela Alcântara  
 Rayssa Lima <br>
-Renata Rocha  
 Vinícius Martins  
 
 ## Orientador
