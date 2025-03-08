@@ -86,6 +86,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| O site deve ser fácil de usar, com uma interface intuitiva que permita aos usuários encontrar rapidamente as informações e funcionalidades que procuram máximo 5 clicks .  |  ALTA | 
 |RNF-006| Deverá conseguir incluir o modo escuro na aplicação.   |  ALTA | 
 |RNF-007| O site deve seguir padrões de codificação e design web, como HTML5, CSS3, C# e JavaScript moderno, para garantir a compatibilidade e a manutenção futura  |  ALTA | 
+|RNF-007|Apliacao podera ser utlizada em WindowS, IOS E Android de forma Web  |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -120,9 +121,6 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
 ![WhatsApp Image 2025-03-06 at 20 53 52](https://github.com/user-attachments/assets/81e596c5-d28e-4778-ac0b-2d59f58a0170)
 
