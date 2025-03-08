@@ -7,9 +7,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-
-# Personas  
-
+ 
 # Personas  
 
 | Nome             | Idade | Profissão                        | Frustrações                                                                 | Expectativas                                                                 |
