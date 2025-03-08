@@ -117,6 +117,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| O projeto deve ser desenvolvido dentro de um orçamento pré-definido, o que pode limitar a escolha de tecnologias, contratação de pessoal ou a extensão das funcionalidades do site.|
 |04| O site precisa ser lançado dentro de um prazo específico para atender a demandas de mercado ou para coincidir com campanhas de marketing já planejadas.|
 
+|ID| Restrição de Gestão                                          |
+|--|-------------------------------------------------------|
+|01| A equipe disponível para o projeto pode ser limitada em termos de número de pessoas ou de habilidades específicas, o que pode impactar a velocidade e a qualidade do desenvolvimento.|
+|02| A disponibilidade de stakeholders para revisões, aprovações e feedback pode ser limitada, o que pode atrasar decisões críticas e o progresso do projeto.|
+|03| Mudanças frequentes no escopo do projeto, seja por novas demandas dos clientes ou por ajustes internos, podem impactar o cronograma e o orçamento, exigindo uma gestão de mudanças eficiente.|
+
                               |
 
 
