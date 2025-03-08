@@ -1,18 +1,12 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
  
 # Persona 1
 ![Nome idade_page-0001](https://github.com/user-attachments/assets/546f93bd-31df-4d5f-939b-4206450bd7e7)
 
 # Persona 2
-[Nome idade (2).pdf](https://github.com/user-attachments/files/19145718/Nome.idade.2.pdf)
+[Nome idade (2).pdf](https:![Nome idade (2)_page-0001](https://github.com/user-attachments/assets/26421bcf-6de9-437b-b3a7-aac3660f4ca4)
 
 # Persona 3
 ![Nome idade (3)_page-0001](https://github.com/user-attachments/assets/4273cc6c-839a-49a1-9094-90c4225b6fe4)
