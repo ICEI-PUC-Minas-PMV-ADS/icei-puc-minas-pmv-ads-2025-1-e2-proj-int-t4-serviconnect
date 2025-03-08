@@ -13,3 +13,8 @@ O sistema busca facilitar a conexão entre clientes e prestadores de serviços, 
 
 ## Público-Alvo
 Prestadores de serviços autônomos que desejam divulgar seu trabalho e gerenciar suas solicitações, além de clientes — pessoas físicas ou jurídicas — que buscam profissionais qualificados de forma prática e segura. 
+
+## Vídeo de apresentação do projeto:
+
+https://github.com/user-attachments/assets/80e294a0-1ac0-4df1-8152-c37023125bee
+
