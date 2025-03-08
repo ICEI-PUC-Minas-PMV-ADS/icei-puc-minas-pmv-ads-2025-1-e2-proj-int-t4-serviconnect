@@ -59,16 +59,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário avalie uma agência de intercâmbio com base na sua experiência| ALTA | 
-|RF-002| A aplicação deve permitir que o usuário inclua comentários ao fazer uma avaliação de uma agência de intercâmbio    | ALTA |
-|RF-003| A aplicação deve permitir que o usuário consulte todas as agências de intercâmbio cadastradas ordenando-as com base em suas notas | ALTA |
+|RF-001| Usuários conseguirem realizar cadastro no sistema  | ALTA | 
+|RF-002| Usuários conseguirem realizar a recuperação de senha.   | ALTA |
+|RF-003| Usuarios consegurem excluiir a propria conta. | ALTA |
+|RF-004| Usuarios deve conseguir abrir chamado de serviços terceiros.  | ALTA |
+|RF-005| Prestador de serviço deve tere acesso à um calendário mensal para visualização de cronograma. | ALTA |
+|RF-006| Usuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
+|RF-007| Usuarios devem conseguir efetuar comentários e avaliar serviços. | MÉDIA |
+|RF-008| Usuarios receber notificações sobre confirmação de agendamento de serviços. | MÉDIA |
+|RF-009| Usuarios com melhores infomações devem ser mais recomendados| ALTA |
+|RF-010| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
+|RF-011| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
+|RF-012| Usuários deve pertir favoritar colabor de serviços terceiros.  | BAIXA |
+|RF-013| Prestadores de serviços devem ter foto de perfil verificada. | MÉDIA |
+|RF-014| Prestador de serviço deve fornecer suas rede sociais na plataforma  | MÉDIA|
+|RF-015| Prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser disponibilizada em um ambiente acessível ao público na Internet.  | ALTA | 
+|RNF-002| A aplicação deverá ser responsivo, possibilitando a visualização otimizada em diversos dispositivos, tais como computadores, celulares, entre outros.  |  MÉDIA | 
+|RNF-003| A aplicação deve apresentar compatibilidade com diversos navegadores ex: Safari, Chrome, Edge e Fire Mozila   |  ALTA | 
+|RNF-004| A aplicação deve otimizar o desempenho do site a fim de assegurar tempos de carregamento rápidos  “3s”.   |  ALTA | 
+|RNF-005| O site deve ser fácil de usar, com uma interface intuitiva que permita aos usuários encontrar rapidamente as informações e funcionalidades que procuram máximo 5 clicks .  |  ALTA | 
+|RNF-006| Deverá conseguir incluir o modo escuro na aplicação.   |  ALTA | 
+|RNF-007| O site deve seguir padrões de codificação e design web, como HTML5, CSS3, C# e JavaScript moderno, para garantir a compatibilidade e a manutenção futura  |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
