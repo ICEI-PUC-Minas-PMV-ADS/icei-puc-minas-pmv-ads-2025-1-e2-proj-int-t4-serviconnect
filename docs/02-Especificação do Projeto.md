@@ -110,10 +110,16 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|ID| Restrição de Negócio                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O projeto deve ser desenvolvido dentro de um orçamento pré-definido, o que pode limitar a escolha de tecnologias, contratação de pessoal ou a extensão das funcionalidades do site.|
+|04| O site precisa ser lançado dentro de um prazo específico para atender a demandas de mercado ou para coincidir com campanhas de marketing já planejadas.|
+
+
+
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
