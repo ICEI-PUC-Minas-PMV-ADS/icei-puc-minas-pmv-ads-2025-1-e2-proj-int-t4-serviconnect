@@ -117,7 +117,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| O projeto deve ser desenvolvido dentro de um orçamento pré-definido, o que pode limitar a escolha de tecnologias, contratação de pessoal ou a extensão das funcionalidades do site.|
 |04| O site precisa ser lançado dentro de um prazo específico para atender a demandas de mercado ou para coincidir com campanhas de marketing já planejadas.|
 
-## |ID| Restrição de Negócio                                 |
+                              |
 
 
 
