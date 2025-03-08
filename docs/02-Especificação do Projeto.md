@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-#Personas
+# Personas
  
 ## Persona 1
 ![Nome idade_page-0001](https://github.com/user-attachments/assets/546f93bd-31df-4d5f-939b-4206450bd7e7)
