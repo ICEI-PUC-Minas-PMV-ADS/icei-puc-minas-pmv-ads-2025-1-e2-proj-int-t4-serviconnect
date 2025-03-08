@@ -6,7 +6,7 @@
 ![Nome idade_page-0001](https://github.com/user-attachments/assets/546f93bd-31df-4d5f-939b-4206450bd7e7)
 
 # Persona 2
-[Nome idade (2).pdf](https:![Nome idade (2)_page-0001](https://github.com/user-attachments/assets/26421bcf-6de9-437b-b3a7-aac3660f4ca4)
+![Nome idade (2)_page-0001](https://github.com/user-attachments/assets/26421bcf-6de9-437b-b3a7-aac3660f4ca4)
 
 # Persona 3
 ![Nome idade (3)_page-0001](https://github.com/user-attachments/assets/4273cc6c-839a-49a1-9094-90c4225b6fe4)
