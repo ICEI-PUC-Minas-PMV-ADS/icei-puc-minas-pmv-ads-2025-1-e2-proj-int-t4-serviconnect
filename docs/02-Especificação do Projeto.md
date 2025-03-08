@@ -10,13 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
  
 
 
-| Nome             | Idade | Profissão                        | Frustrações                                                                 | Expectativas                                                                 |
-|-----------------|------|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| João Souza     | 35   | Analista de TI                 | Dificuldade em encontrar prestadores confiáveis; demora na resposta para orçamentos; falta de transparência na qualidade dos serviços. | Encontrar profissionais qualificados rapidamente; visualizar avaliações e histórico dos prestadores; ter um canal de comunicação eficiente. |
-| Mariana Ferreira | 28   | Designer de interiores        | Pouca visibilidade no mercado; dificuldade em gerenciar solicitações de clientes; problemas na comunicação com clientes. | Plataforma que facilite a gestão dos pedidos; um espaço para exibir portfólio e avaliações; receber pagamentos de forma organizada. |
-| Lucas Almeida   | 42   | Dono de empresa de manutenção | Processo demorado para contratar prestadores qualificados; dificuldade em acompanhar o andamento dos serviços; problemas com a qualidade do trabalho entregue. | Plataforma que agilize a contratação; possibilidade de agendar e acompanhar serviços; sistema que garanta prestadores bem avaliados. |
-| Pedro Santos   | 50   | Jardineiro                     | Dificuldade em conseguir novos clientes; problemas com pagamentos atrasados; falta de visibilidade para seus serviços. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro e organizado; espaço para exibir avaliações e fotos de trabalhos realizados. |
-| Carla Menezes  | 33   | Massoterapeuta                 | Concorrência alta no mercado; dificuldade em fidelizar clientes; pouca divulgação do trabalho. | Plataforma que ajude na captação de clientes; agendamento facilitado; espaço para avaliações e feedbacks positivos. |
+
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaClara1.png" alt="Persona1"/>
 
@@ -36,6 +30,15 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+
+| Nome             | Idade | Profissão                        | Frustrações                                                                 | Expectativas                                                                 |
+|-----------------|------|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| João Souza     | 35   | Analista de TI                 | Dificuldade em encontrar prestadores confiáveis; demora na resposta para orçamentos; falta de transparência na qualidade dos serviços. | Encontrar profissionais qualificados rapidamente; visualizar avaliações e histórico dos prestadores; ter um canal de comunicação eficiente. |
+| Mariana Ferreira | 28   | Designer de interiores        | Pouca visibilidade no mercado; dificuldade em gerenciar solicitações de clientes; problemas na comunicação com clientes. | Plataforma que facilite a gestão dos pedidos; um espaço para exibir portfólio e avaliações; receber pagamentos de forma organizada. |
+| Lucas Almeida   | 42   | Dono de empresa de manutenção | Processo demorado para contratar prestadores qualificados; dificuldade em acompanhar o andamento dos serviços; problemas com a qualidade do trabalho entregue. | Plataforma que agilize a contratação; possibilidade de agendar e acompanhar serviços; sistema que garanta prestadores bem avaliados. |
+| Pedro Santos   | 50   | Jardineiro                     | Dificuldade em conseguir novos clientes; problemas com pagamentos atrasados; falta de visibilidade para seus serviços. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro e organizado; espaço para exibir avaliações e fotos de trabalhos realizados. |
+| Carla Menezes  | 33   | Massoterapeuta                 | Concorrência alta no mercado; dificuldade em fidelizar clientes; pouca divulgação do trabalho. | Plataforma que ajude na captação de clientes; agendamento facilitado; espaço para avaliações e feedbacks positivos. |
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
