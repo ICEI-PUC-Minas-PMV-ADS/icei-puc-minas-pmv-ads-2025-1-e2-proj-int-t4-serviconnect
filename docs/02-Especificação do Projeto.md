@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
  
-# Personas  
+
 
 | Nome             | Idade | Profissão                        | Frustrações                                                                 | Expectativas                                                                 |
 |-----------------|------|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
