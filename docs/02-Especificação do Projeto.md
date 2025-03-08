@@ -12,7 +12,7 @@
 ![Nome idade (3)_page-0001](https://github.com/user-attachments/assets/4273cc6c-839a-49a1-9094-90c4225b6fe4)
 
 ## Persona 4
-[Nome idade ![Nome idade (6)_page-0001](https://github.com/user-attachments/assets/4675314b-b305-46fd-b2cd-40a0c4967c93)
+![Nome idade (6)_page-0001](https://github.com/user-attachments/assets/4675314b-b305-46fd-b2cd-40a0c4967c93)
 
 ## Persona 5
 ![Nome idade (9)_page-0001](https://github.com/user-attachments/assets/5d9b5cab-da17-4841-9d4f-a20b724cfbcd)
