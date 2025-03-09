@@ -46,6 +46,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Lucas Almeida   | 42   | Dono de empresa de manutenção | Processo demorado para contratar prestadores qualificados; dificuldade em acompanhar o andamento dos serviços; problemas com a qualidade do trabalho entregue. | Plataforma que agilize a contratação; possibilidade de agendar e acompanhar serviços; sistema que garanta prestadores bem avaliados. |
 | Pedro Santos   | 50   | Jardineiro                     | Dificuldade em conseguir novos clientes; problemas com pagamentos atrasados; falta de visibilidade para seus serviços. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro e organizado; espaço para exibir avaliações e fotos de trabalhos realizados. |
 | Carla Menezes  | 33   | Massoterapeuta                 | Concorrência alta no mercado; dificuldade em fidelizar clientes; pouca divulgação do trabalho. | Plataforma que ajude na captação de clientes; agendamento facilitado; espaço para avaliações e feedbacks positivos. |
+| Ana Beatriz  | 29   | Fotógrafa             | Dificuldade em encontrar clientes regulares; problemas com agendamentos; falta de visibilidade. | Plataforma que conecte com clientes interessados; sistema de agendamento integrado; espaço para exibir portfólio. |
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
