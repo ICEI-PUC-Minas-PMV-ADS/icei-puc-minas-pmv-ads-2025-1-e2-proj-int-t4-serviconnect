@@ -19,21 +19,6 @@
 
 
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaClara1.png" alt="Persona1"/>
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> 
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -70,8 +55,6 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -92,6 +75,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-014| Prestador de serviço deve fornecer suas rede sociais na plataforma  | MÉDIA|
 |RF-015| Prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA|
 
+
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -105,20 +90,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| O site deve seguir padrões de codificação e design web, como HTML5, CSS3, C# e JavaScript moderno, para garantir a compatibilidade e a manutenção futura  |  ALTA | 
 |RNF-007|Apliacao podera ser utlizada em WindowS, IOS E Android de forma Web  |  ALTA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -136,23 +108,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| A disponibilidade de stakeholders para revisões, aprovações e feedback pode ser limitada, o que pode atrasar decisões críticas e o progresso do projeto.|
 |03| Mudanças frequentes no escopo do projeto, seja por novas demandas dos clientes ou por ajustes internos, podem impactar o cronograma e o orçamento, exigindo uma gestão de mudanças eficiente.|
 
-                              |
 
-
-
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-
 ![WhatsApp Image 2025-03-06 at 20 53 52](https://github.com/user-attachments/assets/81e596c5-d28e-4778-ac0b-2d59f58a0170)
-
 
 
 > **Links Úteis**:
