@@ -47,6 +47,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Pedro Santos   | 50   | Jardineiro                     | Dificuldade em conseguir novos clientes; problemas com pagamentos atrasados; falta de visibilidade para seus serviços. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro e organizado; espaço para exibir avaliações e fotos de trabalhos realizados. |
 | Carla Menezes  | 33   | Massoterapeuta                 | Concorrência alta no mercado; dificuldade em fidelizar clientes; pouca divulgação do trabalho. | Plataforma que ajude na captação de clientes; agendamento facilitado; espaço para avaliações e feedbacks positivos. |
 | Ana Beatriz  | 29   | Fotógrafa             | Dificuldade em encontrar clientes regulares; problemas com agendamentos; falta de visibilidade. | Plataforma que conecte com clientes interessados; sistema de agendamento integrado; espaço para exibir portfólio. |
+| Roberto Carlos  | 45  | Eletricista         | Dificuldade em cobrar pelos serviços; falta de organização nos pedidos; problemas com clientes que não pagam. | Sistema de pagamento seguro; plataforma que organize os pedidos; avaliações de clientes para garantir confiança. |
+| Fernanda Lima   | 31  | Personal Trainer | Concorrência alta; dificuldade em manter clientes; falta de ferramentas para gerenciar horários. | Plataforma que ajude na captação e retenção de clientes; sistema de agendamento eficiente; espaço para feedbacks. |
+| Gustavo Henrique  | 38   | Encanador                 | Dificuldade em encontrar novos clientes; problemas com pagamentos atrasados; falta de visibilidade. | Plataforma que conecte com clientes em potencial; sistema de pagamentos seguro; espaço para exibir avaliações. |
+| Isabel Costa  | 27 | Maquiadora Profissional             | Pouca visibilidade no mercado; dificuldade em gerenciar agendamentos; problemas com clientes que cancelam. | Plataforma que facilite a gestão de agendamentos; espaço para exibir portfólio; sistema de avaliações para aumentar credibilidade. |
+
 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
