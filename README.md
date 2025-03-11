@@ -12,7 +12,8 @@ Este projeto tem como objetivo desenvolver um sistema de back-end para a gestão
 
 Fernando Cardoso  
 Rayssa Lima <br>
-Vinícius Martins  
+Vinícius Martins 
+Nicolas Oliveira Lemos
 
 ## Orientador
 
