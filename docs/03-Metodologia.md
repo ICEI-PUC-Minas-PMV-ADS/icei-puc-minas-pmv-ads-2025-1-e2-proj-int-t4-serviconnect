@@ -1,9 +1,22 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Metodologia utilizada abrange diversas ferramentas de trabalho, manutenção, correção, organização e comunicação utilizadas pela equipe, a divisão de papéis e suporte em reuniões facilita o processo scrum tornando agil todo esse processo.
+
+<hr>
+
+### Relação de Ambientes de Trabalho 
+
+| Ambiente |   Plataforma   |
+|--|-------------------------------------------------------|
+| Repositório de código fonte | GitHub |
+| Documentos do projeto | Google Drive |
+| Projeto de Interface e Wireframes | Figma |
+| Gerenciamento do Projeto | GitHub  |
+| Comunicações e Reuniões  | Teams, Discord, WhatsApp |
+
+<hr>
 
 ## Controle de Versão
 
@@ -39,22 +52,30 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A) Scrum Master:Fernando Cardoso Nascimento.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+B) Product Owner: 
+
+C) Equipe de Desenvolvimento: 
+
+D) Equipe de Design: 
+
+<hr>
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
+<b> Dentre os modelos de comunicação acima já citados o grupo utiliza da própria plataforma (github) para acompanhar detalhes da implementação do projeto,
+acompanhando o desempenho de tarefas da seguinte forma. </b>
+
+Após acessar o github e ir até a parte de projetcs encontraremos os campos:
+
+Todo - Tarefas das quais vão ser trabalhadas eventuamente.
+In progress - Tarefas que já foram iniciadas.
+Revisão - Tarefas concluidas que o grupo se juntará para revisar.
+Done - Tarefas concluidas e revisadas.
+
+print do github projetcs
 
 ### Ferramentas
 
@@ -72,6 +93,12 @@ necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+As ferramentas empregadas no projeto são:
+
+| Ferramenta |   Link   |
+|--|-------------------------------------------------------|
+| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/tree/main |
+| Git |  |
+| Figma | https://www.figma.com/design/9EHQNXEo6gMLqqJEBgfU0u/Untitled?node-id=0-1&p=f&t=atXZ1AVtsLABG2Qr-0 |
+| Visual Studio Code |   |
+|Microsoft Teams||
