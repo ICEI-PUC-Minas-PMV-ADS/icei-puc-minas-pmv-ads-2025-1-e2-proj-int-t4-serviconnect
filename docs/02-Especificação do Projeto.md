@@ -115,6 +115,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![WhatsApp Image 2025-03-06 at 20 53 52](https://github.com/user-attachments/assets/81e596c5-d28e-4778-ac0b-2d59f58a0170)
 
 
+## Modelo de Entidade Relacionamento 
+
+![ER](https://github.com/user-attachments/assets/121a572f-5568-45ff-8504-c7b5de0bc1d5)
+
 > **Links Úteis**:
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
 > - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
