@@ -6,26 +6,142 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
 
-Por exemplo:
  
-| **Caso de Teste** 	| **CT01 – Cadastrar perfil** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-01: verificar funcionamento do cadastro</td>
+  <td>
+   <ul>
+    <li>RF-001:Usuários conseguirem realizar cadastro no sistema.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro está sendo concluido com êxito </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de cadastro</li>
+    <li>verificar se caixas de texto estão funcionando</li>
+    <li>completar registro e concluir se foi feito com êxito.</li>
+   </ol>
+   </td>
+  <td> todas as caixas de texto e botões devem funcionar e o registro deve ser feito </td>
+  <td>--------</td>
+ </tr>
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ 
 
+<tr>
+  <td>CT-02: verificar funcionamento dá página de esqueci minha senha</td>
+  <td>
+   <ul>
+    <li>RF-001:Usuários conseguirem realizar cadastro no sistema.</li>
+    <li>RF-002:Usuários conseguirem realizar a recuperação de senha.</li>
+   </ul>
+  </td>
+  <td>Verificar se a senha sera recuperada </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de login</li>
+    <li>clicar no botão de "esqueci minha senha"</li>
+    <li>ver se a caixa de nova senha está funcionando</li>
+   <li>completar tentativa e ver se a senha foi trocada </li>
+   </ol>
+   </td>
+  <td>  as caixas e botões devem funcionar e a senha deve ser mudada </td>
+  <td>--------</td>
+ </tr>
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+<tr>
+  <td>CT-03: verificar funcionamento da index</td>
+  <td>
+   <ul>
+    <li>RF-009:Usuarios com melhores infomações devem ser mais recomendados.</li>
+    <li>RF-010:O sistema deve conter uma ferramenta e busca para serviços terceiros.</li>
+    <li>RF-011:O sistema deve conter um dashboard com informacoes dos serviços mais solicitados.</li>
+    <li>RF-012:Usuários devem poder favoritar colaboradores de serviços terceiros.</li>
+    <li>RF-013:Prestadores de serviços devem ter foto de perfil verificada..</li>
+    <
+   </ul>
+  </td>
+  <td>verificar o funcionamento geral da index</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de login</li>
+    <li>cocncluir login</li>
+    <li>chegar na página index</li>
+   <li>testar botões dá página </li>
+   <li> testar busca da página </li>
+   <li> ver média de notas dos serviços</li>
+   <li>favoritar serviços </li>
+   </ol>
+   </td>
+  <td>  os botões e caixa de busca dá página index estão funcionando com êxito</td>
+  <td>--------</td>
+ </tr>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+<tr>
+  <td>CT-04: verificar funcionamento dos perfis dos prestadores de serviço </td>
+  <td>
+   <ul>
+    <li>RF-007:Usuarios devem conseguir efetuar comentários e avaliar serviços.</li>
+    <li>RF-013:Prestadores de serviços devem ter foto de perfil verificada..</li>
+    <li>RF-014:Prestador de serviço deve fornecer suas rede sociais na plataforma.</li>
+    <li>RF-015:Prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.</li>
+    <
+   </ul>
+  </td>
+  <td>verificar o funcionamento dá página de perfil</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de login</li>
+    <li>cocncluir login</li>
+    <li>chegar na página index</li>
+   <li>clicar em perfil de algum prestador </li>
+   <li> analisar se a foto está verificada</li>
+   <li> verificar redes sociais</li>
+   <li>avaliar serviço</li>
+   </ol>
+   </td>
+  <td>  página funcionando corretamente e avaliação enviada</td>
+  <td>--------</td>
+ </tr>
+
