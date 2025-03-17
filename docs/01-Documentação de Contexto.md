@@ -1,6 +1,6 @@
 # Introdução
 
-Este projeto tem como objetivo desenvolver um sistema de back-end para a gestão de serviços prestados por terceiros. A aplicação permitirá o cadastro de prestadores e clientes, gerenciamento de solicitações de serviços, acompanhamento de status e registro de avaliações. Utilizando tecnologias modernas de desenvolvimento, o sistema garantirá eficiência, segurança e escalabilidade na comunicação entre prestadores e clientes.
+Nos últimos anos, a terceirização de serviços tornou-se uma estratégia crucial para empresas que desejam otimizar processos, reduzir custos e focar em suas atividades principais. Um sistema de serviços terceirizados é uma solução eficiente para gerenciar operações importantes, mas que não fazem parte do core business da organização. Essa prática permite que as empresas direcionem recursos para áreas estratégicas, enquanto parceiros especializados cuidam de tarefas como logística, suporte técnico, limpeza e segurança.
 
 ## Problema
 Atualmente, muitas pessoas e empresas enfrentam dificuldades para encontrar prestadores de serviços qualificados de forma rápida e segura. A falta de uma plataforma organizada leva a problemas como comunicação ineficiente, falta de transparência na reputação dos prestadores e dificuldades no acompanhamento dos serviços. Além disso, prestadores autônomos têm dificuldade em alcançar clientes e gerenciar suas solicitações de forma estruturada. Esse cenário gera insatisfação, perda de oportunidades e baixa confiabilidade no setor. 
