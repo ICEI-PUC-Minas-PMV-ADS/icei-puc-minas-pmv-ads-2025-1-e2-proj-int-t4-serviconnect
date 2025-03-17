@@ -38,42 +38,27 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Isabel Costa  | 27 | Maquiadora Profissional             | Pouca visibilidade no mercado; dificuldade em gerenciar agendamentos; problemas com clientes que cancelam. | Plataforma que facilite a gestão de agendamentos; espaço para exibir portfólio; sistema de avaliações para aumentar credibilidade. |
 
 
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário | Preciso encontrar serviços terceirizados    | Ter mais agilidade e segurança para solicitar um serviço         |
-|Ana Clara       | Ter um mecanismo eficiente e rápido de comunicação                 | Que eu possa sanar todas as minhas dúvidas rapidamente |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Usuários conseguirem realizar cadastro no sistema  | ALTA | 
-|RF-002| Usuários conseguirem realizar a recuperação de senha.   | ALTA |
-|RF-003| Usuarios consegurem excluiir a propria conta. | ALTA |
-|RF-004| Usuarios deve conseguir abrir chamado de serviços terceiros.  | ALTA |
-|RF-005| Prestador de serviço deve tere acesso à um calendário mensal para visualização de cronograma. | ALTA |
-|RF-006| Usuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
-|RF-007| Usuarios devem conseguir efetuar comentários e avaliar serviços. | MÉDIA |
-|RF-008| Usuarios receber notificações sobre confirmação de agendamento de serviços. | MÉDIA |
-|RF-009| Usuarios com melhores infomações devem ser mais recomendados| ALTA |
+|RF-001| O sistema deve permitir que os usuários tenham acesso a realizar cadastro no sistema  | ALTA | 
+|RF-002| O sistema deve permitir que os usuários tenham acesso a realizar a recuperação de senha.   | ALTA |
+|RF-003| O sistema deve permitir que os usuários tenham acesso a realizar a excluizam da sua propria conta. | ALTA |
+|RF-004| O sistema deve permitir que os usuários tenham acesso a abrir chamado de serviços terceiros.  | ALTA |
+|RF-005| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | ALTA |
+|RF-006| O sistema deve permitir que os usuários tenham acesso asuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
+|RF-007| O sistema deve permitir que os usuários tenham acesso a efetuar comentários e avaliar serviços. | ALTA |
+|RF-008| O sistema deve permitir que os usuários tenham acesso receber notificações sobre confirmação de agendamento de serviços. | ALTA |
+|RF-009| O sistema deve permitir que os usuários tenham acesso com melhores infomações devem ser mais recomendados| ALTA |
 |RF-010| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
 |RF-011| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
-|RF-012| Usuários deve pertir favoritar colabor de serviços terceiros.  | BAIXA |
-|RF-013| Prestadores de serviços devem ter foto de perfil verificada. | MÉDIA |
-|RF-014| Prestador de serviço deve fornecer suas rede sociais na plataforma  | MÉDIA|
-|RF-015| Prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA|
+|RF-012| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
+|RF-013| O sistema deve permitir que os prestadores de serviços devem ter foto de perfil verificada. | MÉDIA |
+|RF-014| O sistema deve permitir que os prestador de serviço deve fornecer suas rede sociais na plataforma  | BAIXA |
+|RF-015| O sistema deve permitir que os prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA |
 
 
 
@@ -98,16 +83,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição de Negócio                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| O projeto deve ser desenvolvido dentro de um orçamento pré-definido, o que pode limitar a escolha de tecnologias, contratação de pessoal ou a extensão das funcionalidades do site.|
-|03| O site precisa ser lançado dentro de um prazo específico para atender a demandas de mercado ou para coincidir com campanhas de marketing já planejadas.|
+|01| Prestador de serviço deve ter mais de 21 anos e ter a formação para excer o serviço |
+|02| O sistema e somente um plano basico, podendo ser alterado para determinado local ou empresa |
 
 |ID| Restrição de Gestão                                          |
 |--|-------------------------------------------------------|
-|01| A equipe disponível para o projeto pode ser limitada em termos de número de pessoas ou de habilidades específicas, o que pode impactar a velocidade e a qualidade do desenvolvimento.|
-|02| A disponibilidade de stakeholders para revisões, aprovações e feedback pode ser limitada, o que pode atrasar decisões críticas e o progresso do projeto.|
-|03| Mudanças frequentes no escopo do projeto, seja por novas demandas dos clientes ou por ajustes internos, podem impactar o cronograma e o orçamento, exigindo uma gestão de mudanças eficiente.|
-
+|01| O projeto deverá ser entregue até o final do semestre |
+|02| O projeto deve ser desenvolvido dentro de um orçamento pré-definido, o que pode limitar a escolha de tecnologias, contratação de pessoal ou a extensão das funcionalidades do site.|
+|03| O site precisa ser lançado dentro de um prazo específico para atender a demandas de mercado ou para coincidir com campanhas de marketing já planejadas.|
 
 
 ## Diagrama de Casos de Uso
