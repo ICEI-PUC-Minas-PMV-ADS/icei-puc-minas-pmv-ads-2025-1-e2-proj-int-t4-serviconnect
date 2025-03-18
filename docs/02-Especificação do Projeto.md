@@ -102,9 +102,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![ER](https://github.com/user-attachments/assets/121a572f-5568-45ff-8504-c7b5de0bc1d5)
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
