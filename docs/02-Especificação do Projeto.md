@@ -100,5 +100,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Classes
 
-![ER](https://github.com/user-attachments/assets/121a572f-5568-45ff-8504-c7b5de0bc1d5)
+![DIAGRAEXEMPLO](https://github.com/user-attachments/assets/7747e78a-3428-4526-b3f3-5bbdab8f5681)
 
