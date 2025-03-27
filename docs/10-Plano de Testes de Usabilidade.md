@@ -194,3 +194,45 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
   <td> conseguir acessar o perfil, e adicionar seu número e email </td>
  </tr>
 <table>
+
+
+
+<table>
+ <tr>
+  <th>Heurísticas de Nielsen</th>
+  <th>nota dos avaliadores</th>
+  <th>média</th>
+  <th>consenso</th>
+  <th>considerações</th>
+  <th>melhorias</th>
+ </tr>
+ <tr>
+  <td>Visibilidade do Status do Sistema</td>
+ </tr>
+<tr>
+  <td>Correspondência entre o Sistema e o Mundo Real</td>
+ </tr>
+<tr>
+  <td>Controle de usuários e liberdade</td>
+ </tr>
+<tr>
+  <td>Prevenção de erros</td>
+ </tr>
+<tr>
+  <td>Consistência e padrões</td>
+ </tr>
+<tr>
+  <td>Reconhecimento ao invés de lembrar</td>
+ </tr>
+<tr>
+  <td>Flexibilidade e eficiência de uso</td>
+ </tr>
+<tr>
+  <td>Design estético e minimalista</td>
+ </tr>
+<tr>
+  <td>Ajudar os usuários a reconhecer, diagnosticar e recuperar erros</td>
+ </tr>
+<tr>
+  <td>Ajuda e documentação</td>
+ </tr>
