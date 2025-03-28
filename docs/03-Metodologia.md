@@ -54,11 +54,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 A) Scrum Master:Fernando Cardoso Nascimento.
 
-B) Product Owner: 
+B) Product Owner: Rayssa Lima Fernandes, Nicolas Oliveira, Vinicius Martins.
 
-C) Equipe de Desenvolvimento: 
+C) Equipe de Desenvolvimento: Rayssa Lima Fernandes, Nicolas Oliveira, Vinicius Martins.
 
-D) Equipe de Design: 
+D) Equipe de Design:Fernando Cardoso Nascimento,Rayssa Lima Fernandes, Nicolas Oliveira, Vinicius Martins.
 
 <hr>
 
