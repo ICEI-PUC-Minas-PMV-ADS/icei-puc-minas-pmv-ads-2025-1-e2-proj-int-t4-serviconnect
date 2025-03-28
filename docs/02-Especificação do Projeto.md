@@ -102,3 +102,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![DIAGRAEXEMPLO](https://github.com/user-attachments/assets/7747e78a-3428-4526-b3f3-5bbdab8f5681)
 
+## Diagrama de Entidade de Relacionamento
+
+![entidades](https://github.com/user-attachments/assets/08b70849-1c8e-4b39-9f90-6cb7341f39ec)
+
+## Projeto da Base de Dados
+
+![banco de dados](https://github.com/user-attachments/assets/d1c2d732-d3bd-48ee-a0d7-4974911ef5fa)
+
