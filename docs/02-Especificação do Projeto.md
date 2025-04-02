@@ -100,7 +100,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Classes
 
-![diagramaclassesgit](https://github.com/user-attachments/assets/0f207ce7-98f0-4a2b-8f57-16da1ef88438)
+![DCLASSES](https://github.com/user-attachments/assets/36b3ef58-9ead-414f-9989-59012bcfff19)
+
 
 
 ## Diagrama de Entidade de Relacionamento
