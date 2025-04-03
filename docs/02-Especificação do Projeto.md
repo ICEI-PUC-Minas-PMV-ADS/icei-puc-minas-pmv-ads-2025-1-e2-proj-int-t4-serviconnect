@@ -98,17 +98,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![WhatsApp Image 2025-03-06 at 20 53 52](https://github.com/user-attachments/assets/81e596c5-d28e-4778-ac0b-2d59f58a0170)
 
 
-## Diagrama de Classes
-
-![DCLASSES](https://github.com/user-attachments/assets/36b3ef58-9ead-414f-9989-59012bcfff19)
-
-
-
-## Diagrama de Entidade de Relacionamento
-
-![entidades](https://github.com/user-attachments/assets/08b70849-1c8e-4b39-9f90-6cb7341f39ec)
-
-## Projeto da Base de Dados
-
-![banco de dados](https://github.com/user-attachments/assets/d1c2d732-d3bd-48ee-a0d7-4974911ef5fa)
 
