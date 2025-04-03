@@ -13,6 +13,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
+Link dos telas prototipadas no figma 
+https://www.figma.com/design/9EHQNXEo6gMLqqJEBgfU0u/Untitled?node-id=0-1&t=WJAOVqhSAMMWchQH-1
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
