@@ -13,7 +13,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-Link dos telas prototipadas no figma 
+Link das telas prototipadas no figma:
 <br>
 https://www.figma.com/design/9EHQNXEo6gMLqqJEBgfU0u/Untitled?node-id=0-1&t=WJAOVqhSAMMWchQH-1
 </br>
