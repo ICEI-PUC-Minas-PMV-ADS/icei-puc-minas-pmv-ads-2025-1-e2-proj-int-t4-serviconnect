@@ -16,9 +16,7 @@ Prestadores de serviços autônomos que desejam divulgar seu trabalho e gerencia
 
 ## Vídeo de apresentação do projeto:
 
+https://github.com/user-attachments/assets/ac75e9f2-827d-49ca-ab7a-630c97291f56
 
-
-
-https://github.com/user-attachments/assets/bdbba196-bb82-4995-a857-ec563c3f5969
 
 
