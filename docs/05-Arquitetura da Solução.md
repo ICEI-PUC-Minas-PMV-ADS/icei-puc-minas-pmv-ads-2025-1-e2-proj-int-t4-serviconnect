@@ -12,7 +12,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER (Projeto Conceitual)
 
-![Imagem do WhatsApp de 2025-04-03 à(s) 20 43 12_c614549d](https://github.com/user-attachments/assets/1c62ebe4-782e-4b12-8fd1-8ca83bb8c033)
+
+![ER](https://github.com/user-attachments/assets/a5eeb2e7-7b12-44e6-a2df-981eeb1b5c9c)
 
 
 ## Projeto da Base de Dados
