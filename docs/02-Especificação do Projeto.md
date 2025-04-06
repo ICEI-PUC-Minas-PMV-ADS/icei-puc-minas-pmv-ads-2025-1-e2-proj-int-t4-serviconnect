@@ -95,7 +95,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![WhatsApp Image 2025-03-06 at 20 53 52](https://github.com/user-attachments/assets/81e596c5-d28e-4778-ac0b-2d59f58a0170)
+![image](https://github.com/user-attachments/assets/5109dfca-7b7a-421e-90f8-1ea673272195)
+
 
 
 
