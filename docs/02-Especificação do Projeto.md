@@ -48,7 +48,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-002| O sistema deve permitir que os usuários tenham acesso a realizar a recuperação de senha.   | ALTA |
 |RF-003| O sistema deve permitir que os usuários tenham acesso a realizar a excluizam da sua propria conta. | ALTA |
 |RF-004| O sistema deve permitir que os usuários tenham acesso a abrir chamado de serviços terceiros.  | ALTA |
-|RF-005| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | ALTA |
+|RF-005| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | MÉDIA |
 |RF-006| O sistema deve permitir que os usuários tenham acesso asuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
 |RF-007| O sistema deve permitir que os usuários tenham acesso a efetuar comentários e avaliar serviços. | ALTA |
 |RF-008| O sistema deve permitir que os usuários tenham acesso receber notificações sobre confirmação de agendamento de serviços. | ALTA |
