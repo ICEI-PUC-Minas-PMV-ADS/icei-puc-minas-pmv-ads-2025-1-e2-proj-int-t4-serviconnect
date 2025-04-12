@@ -56,7 +56,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-010| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
 |RF-011| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
 |RF-012| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
-|RF-013| O sistema deve permitir que os prestadores de serviços devem ter foto de perfil verificada. | MÉDIA |
+|RF-013| O sistema deve permitir que os prestadores de serviços poderão postar foto do serviço concluido . | BAIXA|
 |RF-014| O sistema deve permitir que os prestador de serviço deve fornecer suas rede sociais na plataforma  | BAIXA |
 |RF-015| O sistema deve permitir que os prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA |
 
