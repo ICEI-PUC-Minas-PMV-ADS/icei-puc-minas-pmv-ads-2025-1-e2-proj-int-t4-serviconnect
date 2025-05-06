@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Perfil Usuário";
+}
+
+<div class="container">
+    <header>
+        <button class="back-button">&#8592;</button>
+        <h1 class="title">ServiConnect</h1>
+    </header>
+
+    <main class="card">
+        <div class="user-info">
+            <div class="avatar"></div>
+            <div class="details">
+                <h2>Usuario 1</h2>
+                <p>Email: Usuario1@gmail.com</p>
+                <p>Data de nascimento: 01/01/2000</p>
+            </div>
+            <button class="edit-icon">✎</button>
+        </div>
+
+        <div class="extra-info">
+            <label>Informações adicionais:</label>
+            <textarea disabled></textarea>
+        </div>
+    </main>
+</div>
+
+<style>
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 8px solid #d3d3d3;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+        font-family: Arial, sans-serif;
+    }
+
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 20px;
+        border-bottom: 2px solid #d3d3d3;
+    }
+
+    .back-button {
+        font-size: 24px;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    .title {
+        font-family: "Georgia", serif;
+        font-size: 24px;
+        font-weight: bold;
+        flex: 1;
+        text-align: center;
+        margin: 0;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    .user-info {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .avatar {
+        width: 140px;
+        height: 140px;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+        background-image: url('https://img.icons8.com/ios-filled/100/000000/user-male-circle.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 60%;
+    }
+
+    .details {
+        flex: 1;
+        margin-left: 20px;
+    }
+
+        .details h2 {
+            margin: 0 0 5px;
+        }
+
+    .edit-icon {
+        background: none;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .extra-info {
+        margin-top: 30px;
+    }
+
+        .extra-info label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .extra-info textarea {
+            width: 100%;
+            height: 150px;
+            background-color: #d3d3d3;
+            border: none;
+            resize: none;
+            padding: 10px;
+            font-size: 14px;
+        }
+</style>

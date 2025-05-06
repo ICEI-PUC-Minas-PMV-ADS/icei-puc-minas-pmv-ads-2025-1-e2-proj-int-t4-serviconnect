@@ -1,0 +1,167 @@
+﻿@{
+    ViewData["Title"] = "Pagina de pesquisa";
+}
+<div class="container">
+    <div class="search-bar">
+        <input type="text" placeholder="Pesquise aqui seu serviço desejado">
+        <button class="clear-btn">✕</button>
+    </div>
+
+    <div class="card-list">
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Carlos Andre Cardoso</div>
+                <div class="profession">Eletricista Predial</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Rose Costa</div>
+                <div class="profession">Diarista</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Delson Junior</div>
+                <div class="profession">Construtor civil</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Andre Xavier</div>
+                <div class="profession">Encanador</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Misael Caetano</div>
+                <div class="profession">Jardineiro</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Luiz Fernando</div>
+                <div class="profession">Piscineiro</div>
+            </div>
+            <div class="rating">★★★★★</div>
+            <button class="save-btn">🔖</button>
+        </div>
+
+        <div class="card">
+            <div class="avatar"></div>
+            <div class="info">
+                <div class="name">Fernando Nascimento</div>
+                <div class="profession">Mecanico Automotivo</div>
+            </div>
+            <div class="rating">★★★★☆</div>
+            <button class="save-btn">🔖</button>
+        </div>
+    </div>
+</div>
+<style>
+    .container {
+        max-width: 700px;
+        margin: 0 auto;
+        border: 8px solid #d3d3d3;
+        background-color: #f9f9f9;
+        font-family: Arial, sans-serif;
+    }
+
+    .search-bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 8px 12px;
+        border-bottom: 1px solid #aaa;
+    }
+
+        .search-bar input {
+            flex: 1;
+            border: none;
+            border-bottom: 1px solid #ccc;
+            font-size: 14px;
+            padding: 4px;
+        }
+
+    .clear-btn {
+        border: none;
+        background: none;
+        font-size: 16px;
+        margin-left: 5px;
+        cursor: pointer;
+    }
+
+    .card-list {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px;
+        border-bottom: 3px solid #d3d3d3;
+    }
+
+    .avatar {
+        width: 50px;
+        height: 50px;
+        background-color: #d3d3d3;
+        border-radius: 50%;
+        background-image: url('https://img.icons8.com/ios-filled/100/000000/user.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 60%;
+    }
+
+    .info {
+        flex: 1;
+        margin-left: 15px;
+    }
+
+    .name {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .profession {
+        font-size: 13px;
+        color: #333;
+    }
+
+    .rating {
+        font-size: 18px;
+        margin-right: 10px;
+        white-space: nowrap;
+    }
+
+    .save-btn {
+        background: none;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+</style>
