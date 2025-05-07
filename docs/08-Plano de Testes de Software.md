@@ -17,7 +17,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: verificar funcionamento do cadastro</td>
+  <td>CT-01: verificar funcionamento e responsividade do cadastro</td>
   <td>
    <ul>
     <li>RF-001:Usuários conseguirem realizar cadastro no sistema.</li>
@@ -33,7 +33,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
     <li>completar registro e concluir se foi feito com êxito.</li>
    </ol>
    </td>
-  <td> todas as caixas de texto e botões devem funcionar e o registro deve ser feito </td>
+  <td> todas as caixas de texto e botões devem funcionar, responderem com agilidade e o registro deve ser feito </td>
   <td>--------</td>
  </tr>
 <table>
@@ -48,7 +48,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
  
 
 <tr>
-  <td>CT-02: verificar funcionamento dá página de esqueci minha senha</td>
+  <td>CT-02: verificar funcionamento e responsividade dá página de esqueci minha senha</td>
   <td>
    <ul>
     <li>RF-001:Usuários conseguirem realizar cadastro no sistema.</li>
@@ -66,7 +66,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
    <li>completar tentativa e ver se a senha foi trocada </li>
    </ol>
    </td>
-  <td>  as caixas e botões devem funcionar e a senha deve ser mudada </td>
+  <td>  não pode ser confuso, as caixas e botões devem funcionar e a senha deve ser mudada </td>
   <td>--------</td>
  </tr>
  
@@ -79,7 +79,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <th>Critérios de êxito</th>
   <th>Responsável</th>
 <tr>
-  <td>CT-03: verificar funcionamento da index</td>
+  <td>CT-03: verificar funcionamento e responsividade da index</td>
   <td>
    <ul>
     <li>RF-009:Usuarios com melhores infomações devem ser mais recomendados.</li>
@@ -104,7 +104,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
    <li>favoritar serviços </li>
    </ol>
    </td>
-  <td>  os botões e caixa de busca dá página index estão funcionando com êxito</td>
+  <td>  os botões e caixa de busca dá página index estão funcionando e etão responsivos com êxito</td>
   <td>--------</td>
  </tr>
 
@@ -117,7 +117,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <th>Critérios de êxito</th>
   <th>Responsável</th>
 <tr>
-  <td>CT-04: verificar funcionamento dos perfis dos prestadores de serviço </td>
+  <td>CT-04: verificar funcionamento e responsividade dos perfis dos prestadores de serviço </td>
   <td>
    <ul>
     <li>RF-007:Usuarios devem conseguir efetuar comentários e avaliar serviços.</li>
@@ -141,7 +141,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
    <li>avaliar serviço</li>
    </ol>
    </td>
-  <td>  página funcionando corretamente e avaliação enviada</td>
+  <td>  hyperlinks funcionandos, dados corretos,bem dispostos e avaliação enviada com êxito</td>
   <td>--------</td>
  </tr>
 
