@@ -98,7 +98,7 @@ As ferramentas empregadas no projeto são:
 | Ferramenta |   Link   |
 |--|-------------------------------------------------------|
 | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/tree/main |
-| Git |  |
+| Git | https://git-scm.com |
 | Figma | https://www.figma.com/design/9EHQNXEo6gMLqqJEBgfU0u/Untitled?node-id=0-1&p=f&t=atXZ1AVtsLABG2Qr-0 |
-| Visual Studio Code |   |
-|Microsoft Teams||
+| Visual Studio | https://visualstudio.microsoft.com/pt-br/ |
+|Microsoft Teams| https://teams.microsoft.com |
