@@ -63,7 +63,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
     <li>solicitar o serviço</li>
    </ol>
    </td>
-  <td> conseguir solicitar o serviço com facilidade e eficiência  </td>
+  <td> conseguir solicitar o serviço sem nenghum erro, e com uma navegação intuiva, e conseguir em menos de 2 minutos</td>
  </tr>
 <table>
 
@@ -95,7 +95,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
     <li>solicitar o serviço</li>
    </ol>
    </td>
-  <td> conseguir pesquisar e solicitar o serviço com facilidade e eficiência  </td>
+  <td> conseguir usar a pesquisa sem duvidas e contratar o serviço em menos de 4 minutos </td>
  </tr>
 <table>
 
@@ -127,7 +127,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
    <li>avaliar o perfil da forma que quiser e deixar um comentário</li>
    </ol>
    </td>
-  <td> conseguir acessar o perfil, conseguir dar sua avaliação e conseguir deixar o comentário </td>
+  <td> conseguir acessar o perfil, e com facilidade e agilidade comentar e avaliar o prestador sem nenhum erro ou lentidão indesejada</td>
  </tr>
 <table>
 
@@ -159,7 +159,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
     <li>adicionar sua prórpia legenda e explicar seu serviço</li>
    </ol>
    </td>
-  <td> conseguir se registrar como prestador e colocar sua legenda explicando o serviço </td>
+  <td> conseguir se registrar com facilidade  como prestador e colocar sua legenda  explicando o serviço de uma forma rápida e intuitiva, de fácil acesso </td>
  </tr>
 <table>
 
@@ -191,7 +191,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
    <li>adcionar seu número na caixa correta</li>
    </ol>
    </td>
-  <td> conseguir acessar o perfil, e adicionar seu número e email </td>
+  <td> conseguir acessar seu perfil com uma navegação fácil e conseguir colocar suas formas de contato sem erro algum</td>
  </tr>
 <table>
 
