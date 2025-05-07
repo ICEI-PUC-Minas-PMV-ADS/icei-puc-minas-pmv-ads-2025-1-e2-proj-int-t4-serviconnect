@@ -7,7 +7,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Diagrama de Classes
 
 
-![Imagem do WhatsApp de 2025-04-03 à(s) 20 43 07_0aed5860](https://github.com/user-attachments/assets/66a9156a-6d2f-45f7-a935-01d607aa8907)
+
+![tessste10](https://github.com/user-attachments/assets/b0f6ec73-9dc6-4337-b136-d2f0d0d1d101)
 
 
 ## Modelo ER (Projeto Conceitual)
