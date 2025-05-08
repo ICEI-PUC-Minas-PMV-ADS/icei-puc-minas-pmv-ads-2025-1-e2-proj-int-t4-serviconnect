@@ -20,7 +20,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Projeto da Base de Dados
 
-![Imagem do WhatsApp de 2025-04-03 à(s) 18 42 43_2503896b](https://github.com/user-attachments/assets/66723f6a-bafb-4604-bb34-0fdeeee13ffe)
+
+![basealterado](https://github.com/user-attachments/assets/ef2f1cb5-059e-464a-8e46-f340220f879a)
 
 
 
