@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-<img width="1079" alt="Serviconnect (3)" src="https://github.com/user-attachments/assets/db1b8ea0-cebe-47b7-beae-8ef8f587598d" />
+<img width="1079" alt="Serviconnect (5)" src="https://github.com/user-attachments/assets/2fa2c6a8-714f-4af4-a234-61f1359d714b" />
 
 ## Wireframes
 
