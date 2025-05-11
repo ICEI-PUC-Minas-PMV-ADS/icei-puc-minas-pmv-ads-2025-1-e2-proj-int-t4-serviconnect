@@ -52,7 +52,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-006| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | MÉDIA |
 |RF-007| O sistema deve permitir que os usuários tenham acesso a efetuar comentários e avaliar serviços. | ALTA |
 |RF-008| O sistema deve permitir que os usuários tenham acesso receber notificações sobre confirmação de agendamento de serviços. | ALTA |
-|RF-009| O sistema deve permitir que os usuários tenham acesso com melhores infomações devem ser mais recomendados| ALTA |
+|RF-009| O sistema deve permitir que os prestadores com melhores notas sejam recomendados| ALTA |
 |RF-010| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
 |RF-011| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
 |RF-012| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
