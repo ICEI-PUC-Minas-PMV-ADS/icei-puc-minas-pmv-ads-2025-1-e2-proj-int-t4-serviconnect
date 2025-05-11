@@ -46,19 +46,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir que os usuários tenham acesso a realizar cadastro no sistema  | ALTA | 
 |RF-002| O sistema deve permitir que os usuários tenham acesso a realizar a recuperação de senha.   | ALTA |
-|RF-003| O sistema deve permitir que os usuários tenham acesso a realizar a excluizam da sua propria conta. | ALTA |
-|RF-004| O sistema deve permitir que os usuários tenham acesso a abrir chamado de serviços terceiros.  | ALTA |
-|RF-005| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | MÉDIA |
-|RF-006| O sistema deve permitir que os usuários tenham acesso asuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
-|RF-007| O sistema deve permitir que os usuários tenham acesso a efetuar comentários e avaliar serviços. | ALTA |
-|RF-008| O sistema deve permitir que os usuários tenham acesso receber notificações sobre confirmação de agendamento de serviços. | ALTA |
-|RF-009| O sistema deve permitir que os usuários tenham acesso com melhores infomações devem ser mais recomendados| ALTA |
-|RF-010| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
-|RF-011| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
-|RF-012| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
-|RF-013| O sistema deve permitir que os prestadores de serviços poderão postar foto do serviço concluido . | BAIXA|
-|RF-014| O sistema deve permitir que os prestador de serviço deve fornecer suas rede sociais na plataforma  | BAIXA |
+|RF-003| O sistema deve permitir que os usuários tenham acesso a realizar a excluzam da sua propria conta. | ALTA |
+|RF-004| O sistema deve permitir que os prestadores tenham acesso ao cadastramento de suas devidas funções. | ALTA |
+|RF-005| O sistema deve permitir que os usuários tenham acesso a abrir chamado de serviços terceiros.  | ALTA |
+|RF-006| O sistema deve permitir que os prestadores de serviço devem ter acesso à um calendário mensal para visualização de cronograma. | MÉDIA |
+|RF-007| O sistema deve permitir que os usuários tenham acesso asuario deve ter acesso a ter um cronograma no calendario para os serviços terceiros. | MÉDIA|
+|RF-008| O sistema deve permitir que os usuários tenham acesso a efetuar comentários e avaliar serviços. | ALTA |
+|RF-009| O sistema deve permitir que os usuários tenham acesso receber notificações sobre confirmação de agendamento de serviços. | ALTA |
+|RF-010| O sistema deve permitir que os usuários tenham acesso com melhores infomações devem ser mais recomendados| ALTA |
+|RF-011| O sistema deve conter uma ferramenta e busca para serviços terceiros. | ALTA |
+|RF-012| O sistema deve conter um dashboard com informacoes dos serviços mais solicitados. | MÉDIA |
+|RF-013| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
+|RF-014| O sistema deve permitir que os prestadores de serviço deve fornecer suas rede sociais na plataforma  | BAIXA |
 |RF-015| O sistema deve permitir que os prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA |
+
 
 
 
