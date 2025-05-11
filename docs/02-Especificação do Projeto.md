@@ -59,6 +59,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-013| O sistema deve permitir que os usuários tenham acesso a favoritar colabor de serviços terceiros.  | MÉDIA |
 |RF-014| O sistema deve permitir que os prestadores de serviço deve fornecer suas rede sociais na plataforma  | BAIXA |
 |RF-015| O sistema deve permitir que os prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA |
+|RF-016| O administrador terá acesso a excluir o perfil de serviço do prestador. | ALTA |
 
 
 
