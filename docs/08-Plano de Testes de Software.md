@@ -307,7 +307,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>--------</td>
  </tr>
 
- tr>
+ <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
@@ -342,7 +342,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>--------</td>
  </tr>
 
-  tr>
+  <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
@@ -375,7 +375,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>--------</td>
  </tr>
 
- tr>
+ <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
@@ -408,7 +408,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>  link do site, caixas de texto , botões funcionando corretamente, dashboard de inicio funcionar corretamente, botão de favorito aparecer e funcionar corretamente e prestador ser favoritado com êxito</td>
   <td>--------</td>
  </tr>
- tr>
+ <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
@@ -442,7 +442,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>--------</td>
  </tr>
 
- tr>
+ <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
@@ -474,7 +474,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>--------</td>
  </tr>
 
-  tr>
+  <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
   <th>Objetivo do teste</th>
