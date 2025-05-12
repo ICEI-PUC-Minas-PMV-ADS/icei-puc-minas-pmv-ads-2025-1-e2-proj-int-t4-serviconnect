@@ -1,8 +1,5 @@
 # Template Padrão da Aplicação
 
-# Template Padrão da Aplicação
-
-
 <h1> Cores de botões relacionados ao crud (edição, detalhes e exclusão )</h1><br>
 
 ![image](https://github.com/user-attachments/assets/78b30843-4e41-44be-9c7d-d9831f71aedc)
