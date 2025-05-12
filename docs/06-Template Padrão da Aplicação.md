@@ -11,10 +11,6 @@
 
 ![image](https://github.com/user-attachments/assets/36a35bfe-df53-45b5-b3e8-98991bd5dba3)
 
-<h1> Itens adicionais e RF </h1><br>
-
-![image](https://github.com/user-attachments/assets/3367607e-a04f-43af-82ec-8be96f848870)
-
 <h1> Layout padrão da aplicação </h1><br>
 
 ![image](https://github.com/user-attachments/assets/ea8e9cd6-a878-4627-8e23-ba8344f5859d)
