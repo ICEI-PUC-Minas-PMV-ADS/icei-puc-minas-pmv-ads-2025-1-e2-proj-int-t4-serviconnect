@@ -4,30 +4,9 @@
 
 Para cada caso de teste definido no Plano de Testes de Software, realize o registro das evidências dos testes feitos na aplicação pela equipe, que comprovem que o critério de êxito foi alcançado (ou não!!!). Para isso, utilize uma ferramenta de captura de tela que mostre cada um dos casos de teste definidos (obs.: cada caso de teste deverá possuir um vídeo do tipo _screencast_ para caracterizar uma evidência do referido caso).
 
-<tr>
-  <td>CT-15: O administrador terá acesso a excluir o perfil de serviço do prestador.</td>
-  <td>
-   <ul>
-    <li>RF-015	O administrador terá acesso a excluir o perfil de serviço do prestador.</li>
-   </ul>
-  </td>
-  <td>o administrador excluira o perfil do prestador com sucesso</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site "".</li>
-    <li>Visualizar a página de login</li>
-    <li>colocar credenciais de admin</li>
-    <li>clicar no botão de entrar</li>
-    <li>ir para página de inicio </li>
-    <li> ir até perfil de prestador que sera exluido </li>
-    <li>ir para aréa de exclusão</li>
-    <li>clicar em bottão de excluir</li>
-   </ol>
-   </td>
-  <td>  link do site, caixas de texto , botões funcionando corretamente, aréa de exclusão e botão de excluir funcionando corretamente</td>
-  <td>--------</td>
- </tr>
+<td>CT-15: O administrador terá acesso a excluir o perfil de serviço do prestador.</td>
+
+
 
 
 ## Relatório de testes de software
