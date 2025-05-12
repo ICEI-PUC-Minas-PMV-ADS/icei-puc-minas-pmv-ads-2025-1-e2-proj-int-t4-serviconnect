@@ -9,7 +9,7 @@
 
 <h1> botões relacionados a cadastro de itens </h1><br>
 
-![image](https://github.com/user-attachments/assets/18f5b2d9-f4f5-4fae-bb34-af079117b414)
+![image](https://github.com/user-attachments/assets/36a35bfe-df53-45b5-b3e8-98991bd5dba3)
 
 <h1> Itens adicionais e RF </h1><br>
 
@@ -17,4 +17,4 @@
 
 <h1> Layout padrão da aplicação </h1><br>
 
-![image](https://github.com/user-attachments/assets/7dbee9ba-86db-4d61-96cd-f8ed093af56e)
+![image](https://github.com/user-attachments/assets/ea8e9cd6-a878-4627-8e23-ba8344f5859d)
