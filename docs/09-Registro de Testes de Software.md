@@ -1,10 +1,7 @@
 # Registro de Testes de Software
 <td>CT-15: O administrador terá acesso a excluir o perfil de serviço do prestador.</td>
 
-
-
-
-
+https://github.com/user-attachments/assets/f66f0cd8-5d0c-441b-918b-d423da94d68b
 
 ## Relatório de testes de software
 
