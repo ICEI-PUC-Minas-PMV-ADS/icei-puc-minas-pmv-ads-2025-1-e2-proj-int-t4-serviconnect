@@ -1,0 +1,73 @@
+﻿@using ServiConnect.Repositorio;
+@model List<Login>
+@{
+	ViewData["Title"] = "Listagem de Login";
+}
+
+<div class="text-center">
+
+	<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+		<a class="btn btn-primary" asp- asp-controller="Login" asp-action="Criar" role="button">adicionar novo usuario </a>
+
+	</div>
+
+	<br />
+
+	@if (TempData["MensagemSucesso"] != null)
+	{
+		<div class="alert alert-sucess" role="Alert">
+			<button type="button" class="btn btn-danger btn-sm close-alert" data-bd-dismiss="alert" aria-label="Close">X</button>
+			@TempData["MensagemSucesso"]
+		</div>
+	}
+
+	@if (TempData["MensagemErro"] != null)
+	{
+		<div class="alert alert-danger" role="Alert">
+			<button type="button" class="btn btn-danger btn-sm close-alert" data-bd-dismiss="alert" aria-label="Close">X</button>
+			@TempData["MensagemErro"]
+		</div>
+	}
+
+	<br />
+
+	<h1 class="display-4">Listagem de login</h1>
+
+	<table  id="table-login" class="display" style="width:100%">
+		<thead>
+			<tr>
+				<th scope="col">#</th>
+				<th scope="col">Name</th>
+				<th scope="col">password</th>
+				<th scope="col">email</th>
+				<th scope="col"></th>
+			</tr>
+		</thead>
+		<tbody>
+			@if (Model != null && Model.Any())
+			{
+				foreach (var login in Model)
+				{
+					<tr>
+						<th>scope="row">@login.Id</th>
+						<td>@login.Name</td>
+						<td>@login.Password</td>
+						<td>@login.Email</td>
+						<td>
+							<div class="btn-group" role="group">
+								<a role="button" asp-action="Editar" asp-controller="Login" asp-route-id="@login.Id" class="btn btn-primary">Editar</a>
+								<a role="button" asp-action="ApagarConfirmação" asp-controller="Login" asp-route-id="@login.Id" class="btn btn-danger">Apagarr</a>
+							</div>
+						</td>
+					</tr>
+				}
+			}
+			else
+			{
+				<tr class="odd"><td valign="top" colspan="5">nenhum login encontrado</td></tr>
+			}
+		</tbody>
+			
+     </table>
+
+</div>
