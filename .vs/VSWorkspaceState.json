@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\ServiConnect",
-    "\\ServiConnect\\Controllers",
-    "\\ServiConnect\\Models"
+    ""
   ],
+  "SelectedNode": "\\ServiConnect.sln",
   "PreviewInSolutionExplorer": false
 }

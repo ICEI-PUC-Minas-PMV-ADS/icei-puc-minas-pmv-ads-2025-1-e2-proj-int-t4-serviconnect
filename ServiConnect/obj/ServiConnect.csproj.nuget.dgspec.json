@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Pictures\\NovoRepos\\ServiConnect\\ServiConnect.csproj": {}
+    "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\ServiConnect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Pictures\\NovoRepos\\ServiConnect\\ServiConnect.csproj": {
+    "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\ServiConnect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Pictures\\NovoRepos\\ServiConnect\\ServiConnect.csproj",
+        "projectUniqueName": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\ServiConnect.csproj",
         "projectName": "ServiConnect",
-        "projectPath": "C:\\Users\\user\\Pictures\\NovoRepos\\ServiConnect\\ServiConnect.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Pictures\\NovoRepos\\ServiConnect\\obj\\",
+        "projectPath": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\ServiConnect.csproj",
+        "packagesPath": "C:\\Users\\ProgramadorJava\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ProgramadorJava\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
