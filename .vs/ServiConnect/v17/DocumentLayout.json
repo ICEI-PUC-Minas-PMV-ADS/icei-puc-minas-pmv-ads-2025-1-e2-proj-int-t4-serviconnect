@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
@@ -87,20 +91,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:39:07.233Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T18:55:22.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginAdminController.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginAdminController.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginAdminController.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginAdmin.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\LoginAdmin.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Models\\LoginAdmin.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Models\\ErrorViewModel.cs",
@@ -148,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ILoginRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\ILoginRepositorio.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Repositorio\\ILoginRepositorio.cs",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PefilEnum.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Enums\\PefilEnum.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Enums\\PefilEnum.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "login.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\login.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Models\\login.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Criar.cshtml",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\Login\\Criar.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\Login\\Criar.cshtml",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PrestadoresControler.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\PrestadoresControler.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PrestadoresControler.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\LoginRepositorio.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Repositorio\\LoginRepositorio.cs",
@@ -220,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginController.cs",
@@ -232,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250522010044_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Migrations\\20250522010044_Inicial.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Migrations\\20250522010044_Inicial.cs",
