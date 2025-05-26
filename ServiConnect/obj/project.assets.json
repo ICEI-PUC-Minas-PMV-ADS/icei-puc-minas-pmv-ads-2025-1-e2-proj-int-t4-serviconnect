@@ -7826,11 +7826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\ServiConnect.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
       "projectName": "ServiConnect",
-      "projectPath": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\ServiConnect.csproj",
+      "projectPath": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\obj\\",
+      "outputPath": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
