@@ -1,65 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\RepServiConnect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\migrations\\20250522010044_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\migrations\\20250522010044_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\login\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\views\\login\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\login\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\views\\prestadorescontroler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\views\\prestadorescontroler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\repositorio\\iloginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\repositorio\\iloginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\repositorio\\iloginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\enums\\pefilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\enums\\pefilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\enums\\pefilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\programadorjava\\desktop\\repositorionovo\\serviconnect\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\documents\\repserviconnect\\serviconnect\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,15 +62,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,28 +78,29 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiConnect\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\appsettings.json",
+              "RelativeToolTip": "ServiConnect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T01:48:26.595Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
-              "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T19:39:07.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -116,35 +109,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginAdminController.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginAdminController.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginAdminController.cs",
-              "RelativeToolTip": "ServiConnect\\Controllers\\LoginAdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:44:42.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Models\\LoginAdmin.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Models\\LoginAdmin.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Models\\LoginAdmin.cs",
               "RelativeToolTip": "ServiConnect\\Models\\LoginAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:40:52.794Z"
+              "WhenOpened": "2025-05-25T18:40:52.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -154,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ServiConnect\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "ILoginRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\ILoginRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Repositorio\\ILoginRepositorio.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Repositorio\\ILoginRepositorio.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\ILoginRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Repositorio\\ILoginRepositorio.cs",
               "RelativeToolTip": "ServiConnect\\Repositorio\\ILoginRepositorio.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "PefilEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Enums\\PefilEnum.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Enums\\PefilEnum.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Enums\\PefilEnum.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Enums\\PefilEnum.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Enums\\PefilEnum.cs",
               "RelativeToolTip": "ServiConnect\\Enums\\PefilEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,22 +171,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\login.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Models\\login.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Models\\login.cs",
-              "RelativeToolTip": "ServiConnect\\Models\\login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Title": "LoginAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Controllers\\LoginAdminController.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginAdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Controllers\\LoginAdminController.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\LoginAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T00:48:35.17Z"
+              "WhenOpened": "2025-05-25T18:44:42.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:39:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\Login\\Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\Login\\Criar.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\Login\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Views\\Login\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Views\\Login\\Criar.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\Login\\Criar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -212,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PrestadoresControler.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PrestadoresControler.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
               "RelativeToolTip": "ServiConnect\\Controllers\\PrestadoresControler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,39 +218,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "LoginRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\LoginRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Repositorio\\LoginRepositorio.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Repositorio\\LoginRepositorio.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Repositorio\\LoginRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\RepServiConnect\\ServiConnect\\Repositorio\\LoginRepositorio.cs",
               "RelativeToolTip": "ServiConnect\\Repositorio\\LoginRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T00:46:15.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ServiConnect\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T00:45:47.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250522010044_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Migrations\\20250522010044_Inicial.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Migrations\\20250522010044_Inicial.cs",
-              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\REPOSITORIONOVO\\ServiConnect\\Migrations\\20250522010044_Inicial.cs",
-              "RelativeToolTip": "ServiConnect\\Migrations\\20250522010044_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:00:44.604Z"
             }
           ]
         }
