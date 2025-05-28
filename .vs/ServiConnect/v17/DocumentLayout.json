@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250528013045_Agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiConnect\\Migrations\\20250528013045_Agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\prestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\prestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\views\\prestadorescontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +58,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250528013045_Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250528013045_Agendamento.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Migrations\\20250528013045_Agendamento.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250528013045_Agendamento.cs",
+              "RelativeToolTip": "ServiConnect\\Migrations\\20250528013045_Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:30:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:28:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestadoresControler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:27:48.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:27:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\LoginAdmin.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\LoginAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:21:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestador.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Prestador.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\Prestador.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Prestador.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\Prestador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:20:59.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Agendamento.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Agendamento.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:20:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PerfilUsuario.cs",
               "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PerfilUsuario.cs",
               "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PerfilUsuario.cs",
@@ -38,25 +157,24 @@
               "RelativeToolTip": "ServiConnect\\Controllers\\PerfilUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:38:24.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:38:24.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T00:36:01.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
@@ -64,8 +182,7 @@
               "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T00:35:56.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:35:56.496Z"
             }
           ]
         }
