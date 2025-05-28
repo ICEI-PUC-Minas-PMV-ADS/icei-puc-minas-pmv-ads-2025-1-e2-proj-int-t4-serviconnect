@@ -1,42 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Pictures\\ServiConnect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\prestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\prestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\views\\prestadorescontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\prestadorescontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\controllers\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\prestadorescontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Migrations\\20250526022905_Prestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiConnect\\Migrations\\20250526022905_Prestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\Login\\Criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiConnect\\Views\\Login\\Criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\prestadorescontroler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\prestadorescontroler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\controllers\\loginadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\loginadmin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,126 +74,213 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:33:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T00:51:57.465Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\AppDbContext.cs*",
-              "RelativeToolTip": "ServiConnect\\Models\\AppDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:28:31.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrestadoresControler.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PrestadoresControler.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
-              "RelativeToolTip": "ServiConnect\\Controllers\\PrestadoresControler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:27:48.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgendamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\AgendamentoController.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\AgendamentoController.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\AgendamentoController.cs",
-              "RelativeToolTip": "ServiConnect\\Controllers\\AgendamentoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:27:40.144Z",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:27:12.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\LoginAdmin.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Models\\LoginAdmin.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\LoginAdmin.cs",
-              "RelativeToolTip": "ServiConnect\\Models\\LoginAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Program.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Program.cs",
+              "RelativeToolTip": "ServiConnect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:21:06.916Z",
+              "WhenOpened": "2025-05-26T02:27:03.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Prestador.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Prestador.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Models\\Prestador.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Prestador.cs",
-              "RelativeToolTip": "ServiConnect\\Models\\Prestador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:20:59.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Agendamento.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Agendamento.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Models\\Agendamento.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Models\\Agendamento.cs*",
-              "RelativeToolTip": "ServiConnect\\Models\\Agendamento.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:20:55.537Z",
+              "WhenOpened": "2025-05-26T02:26:55.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PerfilUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PerfilUsuario.cs",
-              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PerfilUsuario.cs",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Controllers\\PerfilUsuario.cs",
-              "RelativeToolTip": "ServiConnect\\Controllers\\PerfilUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:38:24.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
-              "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T00:36:01.47Z",
+              "WhenOpened": "2025-05-26T02:26:49.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\LoginAdmin.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\LoginAdmin.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\LoginAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:40:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiConnect\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\appsettings.json",
+              "RelativeToolTip": "ServiConnect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T01:48:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeDocumentMoniker": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "RelativeToolTip": "ServiConnect\\Views\\PrestadoresControler\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T00:35:56.496Z"
+              "WhenOpened": "2025-05-22T00:58:52.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestadoresControler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\PrestadoresControler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:47:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250526022905_Prestadores.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Migrations\\20250526022905_Prestadores.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Migrations\\20250526022905_Prestadores.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Migrations\\20250526022905_Prestadores.cs",
+              "RelativeToolTip": "ServiConnect\\Migrations\\20250526022905_Prestadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:29:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:55:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ServiConnect\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:56:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\LoginAdminController.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Controllers\\LoginAdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Controllers\\LoginAdminController.cs",
+              "RelativeToolTip": "ServiConnect\\Controllers\\LoginAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:44:42.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\LoginAdmin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:39:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\Login\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ServiConnect\\Views\\Login\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\Login\\Criar.cshtml",
+              "RelativeToolTip": "ServiConnect\\Views\\Login\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T00:59:16.031Z"
             }
           ]
         }

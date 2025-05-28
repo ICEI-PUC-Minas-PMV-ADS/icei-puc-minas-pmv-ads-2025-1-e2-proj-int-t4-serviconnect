@@ -10,6 +10,7 @@ namespace ServiConnect.Models
         public DbSet<Agendamento> agendamento { get; set; }        
 
  
+        public DbSet<LoginModel> Login { get; set; }
     }
 }
 

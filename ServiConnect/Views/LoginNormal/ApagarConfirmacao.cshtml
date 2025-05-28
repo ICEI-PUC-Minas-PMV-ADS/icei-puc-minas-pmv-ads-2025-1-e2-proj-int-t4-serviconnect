@@ -1,0 +1,12 @@
+﻿@model LoginModel
+@{
+	ViewData["Title"] = "Confirmação de apagar login";
+}
+
+
+<div class="text-center">
+	<h3>Realmente deseja apagar o login (@Model.Name)?</h3>
+</div>
+
+<a class="btn btn-primary btn-block" asp-action="Index" asp-controller="LoginNormal" role="button">cancelar</a>
+<a class="btn btn-danger btn-block" asp-action="Apagar" asp-controller="LoginNormal" asp-route-id="@Model.Id" role="button">Confirmar</a>

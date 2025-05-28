@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {}
+    "C:\\Users\\Nicolas\\Source\\Repos\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {
+    "C:\\Users\\Nicolas\\Source\\Repos\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Source\\Repos\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
         "projectName": "ServiConnect",
-        "projectPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\Source\\Repos\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\Source\\Repos\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
