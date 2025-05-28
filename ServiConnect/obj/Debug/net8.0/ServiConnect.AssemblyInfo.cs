@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiConnect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+174ef4f5c5ba8477934c73dde3acae9a9a48515e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b817c8c169df31deb8947094c5b049b615c6fb9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiConnect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiConnect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
