@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NSCco5Sw2U=",
+  "dgSpecHash": "wy6mM5Gz5j8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
+  "projectFilePath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

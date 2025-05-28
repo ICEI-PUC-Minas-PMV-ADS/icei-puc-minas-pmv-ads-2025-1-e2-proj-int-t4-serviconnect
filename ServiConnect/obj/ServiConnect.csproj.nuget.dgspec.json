@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj": {}
+    "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj": {
+    "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
         "projectName": "ServiConnect",
-        "projectPath": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
+        "projectPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\ServiConnect.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\obj\\",
+        "outputPath": "C:\\Users\\user\\Pictures\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
