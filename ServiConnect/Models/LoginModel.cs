@@ -7,12 +7,12 @@ namespace ServiConnect.Models
     {
         public int Id { get; set; }
         [Required (ErrorMessage = "Digite o nome" )]
-        public string? Name { get; set; }
+        public string Name { get; set; }
         [Required(ErrorMessage = "Digite a senha")]
-        public string? Password { get; set; }
+        public string Password { get; set; }
         [Required(ErrorMessage = "Digite o e-mail")]
         [EmailAddress(ErrorMessage = "E-mail inválido")]
-        public string? Email { get; set; }
+        public string Email { get; set; }
 
         public PerfilEnum? Perfil { get; set; }
 

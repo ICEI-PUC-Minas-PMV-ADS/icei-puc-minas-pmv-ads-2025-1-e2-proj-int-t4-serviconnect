@@ -18,6 +18,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20250527011319_BanceDados.cs" />
+    <Compile Remove="Migrations\20250527011319_BanceDados.Designer.cs" />
+    <Compile Remove="Migrations\20250528013045_Agendamento.cs" />
+    <Compile Remove="Migrations\20250528013045_Agendamento.Designer.cs" />
+    <Compile Remove="Migrations\AppDbContextModelSnapshot.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\PrestadoresControler\IndexPrestador.cshtml" />
   </ItemGroup>
 
