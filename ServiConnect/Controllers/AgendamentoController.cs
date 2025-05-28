@@ -19,7 +19,10 @@ namespace ServiConnect.Controllers
 
             return View(dados);
         }
-
+        public ActionResult Create()
+        {
+            return View();
+        }
 
         [HttpPost]
         public ActionResult Create(Agendamento agendamento)
