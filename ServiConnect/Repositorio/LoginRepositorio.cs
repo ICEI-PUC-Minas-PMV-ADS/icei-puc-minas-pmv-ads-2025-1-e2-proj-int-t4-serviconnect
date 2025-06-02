@@ -61,7 +61,5 @@ namespace ServiConnect.Repositorio
 
             return true;
         }
-
-        
     }
 }
