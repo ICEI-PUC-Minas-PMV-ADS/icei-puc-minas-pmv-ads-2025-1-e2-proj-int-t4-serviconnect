@@ -11,6 +11,9 @@ namespace ServiConnect.Models
 
  
         public DbSet<LoginModel> Login { get; set; }
+
+        public DbSet<LoginAdmin> LoginAdmins { get; set; }
+
     }
 }
 

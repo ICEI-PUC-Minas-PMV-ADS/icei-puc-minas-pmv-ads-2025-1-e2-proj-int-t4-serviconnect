@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Pictures\\ServiConnect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\serviconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\serviconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServiConnect/True/SqlTable/dbo.Login.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|c:\\users\\user\\pictures\\serviconnect\\serviconnect\\views\\perfilprestador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1227E30-68DC-4B2B-9E98-DADE4D251746}|ServiConnect\\ServiConnect.csproj|solutionrelative:serviconnect\\views\\perfilprestador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ProgramadorJava\\Desktop\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250529000452_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiConnect\\Migrations\\20250529000452_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,27 +33,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiConnect",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
-              "RelativeDocumentMoniker": "ServiConnect\\ServiConnect.csproj",
-              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\ServiConnect.csproj",
-              "RelativeToolTip": "ServiConnect\\ServiConnect.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-07T00:07:03.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PerfilPrestador\\index.cshtml",
-              "RelativeDocumentMoniker": "ServiConnect\\Views\\PerfilPrestador\\index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Pictures\\ServiConnect\\ServiConnect\\Views\\PerfilPrestador\\index.cshtml",
-              "RelativeToolTip": "ServiConnect\\Views\\PerfilPrestador\\index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T00:42:09.584Z",
+              "Title": "20250529000452_m1.cs",
+              "DocumentMoniker": "C:\\Users\\ProgramadorJava\\Desktop\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250529000452_m1.cs",
+              "RelativeDocumentMoniker": "ServiConnect\\Migrations\\20250529000452_m1.cs",
+              "ToolTip": "C:\\Users\\ProgramadorJava\\Desktop\\icei-puc-minas-pmv-ads-2025-1-e2-proj-int-t4-serviconnect\\ServiConnect\\Migrations\\20250529000452_m1.cs",
+              "RelativeToolTip": "ServiConnect\\Migrations\\20250529000452_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:04:52.341Z",
               "EditorCaption": ""
             }
           ]
