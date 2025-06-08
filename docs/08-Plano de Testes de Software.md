@@ -507,3 +507,69 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
   <td>  link do site, caixas de texto , botões funcionando corretamente, aréa de exclusão e botão de excluir funcionando corretamente</td>
   <td>--------</td>
  </tr>
+
+
+<tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Dados de entrada</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ 
+<tr>
+  <td>CT-16:verificar funcionamento e responsividade do Login .</td>
+  <td>
+   <ul>
+    <li>RF-016	O sistema deve permitir que os usuários tenham acesso a realizar Login no sistema.</li>
+   </ul>
+  </td>
+  <td>Verificar se o Login está sendo concluido com êxito  </td>
+ <td> Email:Teste@email.com Senha:1234  </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site "".</li>
+    <li>Visualizar a página de login</li>
+    <li>colocar credenciais do usuario</li>
+    <li>clicar no botão de entrar</li>
+   </ol>
+   </td>
+  <td>  link do site, caixas de texto , botões funcionando corretamente, entrar no site com sucessso.</td>
+  <td>--------</td>
+ </tr>
+
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Dados de entrada</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ 
+<tr>
+  <td>CT-17:verificar funcionamento e responsividade do Login de administadores .</td>
+  <td>
+   <ul>
+    <li>RF-017		O sistema deve permitir que os administradores tenham acesso a realizar Login próprio no sistema</li>
+   </ul>
+  </td>
+  <td>Verificar se o Login de administrador está sendo concluido com êxito  </td>
+ <td> Email:adminvini@gmail.com Senha:456  </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site "".</li>
+    <li>Visualizar a página de login</li>
+    <li>Clicar no botão de Login Adm</li>
+    <li>colocar credenciais do Admin</li>
+    <li>clicar no botão de entrar</li>
+   </ol>
+   </td>
+  <td>  link do site, caixas de texto , botões funcionando corretamente, Entrar no site com sucesso</td>
+  <td>--------</td>
+ </tr>
