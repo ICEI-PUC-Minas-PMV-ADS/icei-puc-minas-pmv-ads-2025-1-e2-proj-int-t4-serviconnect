@@ -60,7 +60,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-014| O sistema deve permitir que os prestadores de serviços devem ter mais de 21 anos para fazer o cadastro na plataforma.  | MÉDIA |
 |RF-015| O administrador terá acesso a excluir o perfil de serviço do prestador. | ALTA |
 |RF-016| O sistema deve permitir que os usuários tenham acesso a realizar Login no sistema  | ALTA | 
-
+|RF-017| O sistema deve permitir que os administradores tenham acesso a realizar Login próprio no sistema  | ALTA | 
 
 
 ### Requisitos não Funcionais
