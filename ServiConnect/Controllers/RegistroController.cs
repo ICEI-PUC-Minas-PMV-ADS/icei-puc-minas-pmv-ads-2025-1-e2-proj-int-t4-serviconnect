@@ -25,9 +25,8 @@ namespace ServiConnect.Controllers
             {
                 if (ModelState.IsValid)
                 {
-
                     LoginModel login = _loginRepositorio.BuscarPorEmail(registroModel.Email);
-
+                    
                     if (login == null)
                     {
                         if(login.SenhaValida(registroModel.Password))
@@ -49,7 +48,31 @@ namespace ServiConnect.Controllers
                 return RedirectToAction("index");
             }
         }
+
+        public IActionResult Criar(LoginModel login)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    login = _loginRepositorio.Adicionar(login);
+
+                    TempData["MensagemSucesso"] = "Login cadastrado com sucesso";
+                    return RedirectToAction("Index");
+                }
+                return View("index");
+            }
+            catch (Exception erro)
+            {
+                TempData["MensagemErro"] = $"Não conseguimos cadastrar seu login, tente novamente, detalhe do erro: {erro.Message}";
+                return RedirectToAction("Index");
+            }
+        }
+
+
+
     }
+
 
 
 }

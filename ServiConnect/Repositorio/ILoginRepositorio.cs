@@ -4,7 +4,7 @@ namespace ServiConnect.Repositorio
 {
     public interface ILoginRepositorio
     {
-        LoginModel BuscarPorEmail(string email);
+        LoginModel BuscarPorEmail(string Email);
         List<LoginModel> BuscarTodos();
 
         LoginModel BuscarPorId(int id);

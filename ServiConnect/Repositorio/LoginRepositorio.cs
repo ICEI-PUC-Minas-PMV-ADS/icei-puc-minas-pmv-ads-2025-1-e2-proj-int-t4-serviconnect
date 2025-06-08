@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using ServiConnect.Models;
 
 namespace ServiConnect.Repositorio
@@ -12,14 +13,14 @@ namespace ServiConnect.Repositorio
             this._context = context;
         }
 
-        public LoginModel BuscarPorEmail(string email)
+        public LoginModel BuscarPorEmail(string Email)
         {
-            return _context.Login.First(x => x.Email == email);
+            return _context.Login.FirstOrDefault(x => x.Email == Email);
         }
 
         public LoginModel BuscarPorId(int id)
         {
-            return _context.Login.First(x => x.Id == id);
+            return _context.Login.FirstOrDefault(x => x.Id == id);
         }
 
         public List<LoginModel> BuscarTodos()
