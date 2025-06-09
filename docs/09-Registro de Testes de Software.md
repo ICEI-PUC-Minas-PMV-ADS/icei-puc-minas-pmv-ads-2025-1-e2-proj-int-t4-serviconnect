@@ -183,6 +183,30 @@ https://github.com/user-attachments/assets/630808f1-96ec-4340-a149-1a08704bfb0b
 
 https://github.com/user-attachments/assets/e7bc7e6d-61af-4f6c-8e0c-c6d847273f08
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Pre-Condições</th>
+  <th>procedimento</th>
+   <th>Dados de entrada</th>
+  <th>Resultado esperado</th>
+  <th>Resultado obtido</th>
+  <th>Avaliçaão</th>
+ </tr>
+<tr>
+  <td>CT-16:verificar funcionamento e responsividade do Login Administrador</td>
+  <td>
+   <ul>
+    <li>estar na página de Login Admin </li>
+   </ul>
+  </td>
+  <td>1.colocar credenciais 2.clicar no botão entrar  </td>
+  <td>Email:admvini@gmail.com Senha:456 </td>
+  <td> conseguir logar com sucesso </td>
+  <td> login admin sucedido com sucesso</td>
+  <td>RE != RO nao pegou erro</td>
+ </tr>
+<table>  
 
   
   
