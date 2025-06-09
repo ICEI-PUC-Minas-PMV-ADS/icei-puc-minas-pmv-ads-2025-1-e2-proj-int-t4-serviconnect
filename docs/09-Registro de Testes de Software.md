@@ -194,7 +194,7 @@ https://github.com/user-attachments/assets/e7bc7e6d-61af-4f6c-8e0c-c6d847273f08
   <th>Avaliçaão</th>
  </tr>
 <tr>
-  <td>CT-16:verificar funcionamento e responsividade do Login Administrador</td>
+  <td>CT-17:verificar funcionamento e responsividade do Login Administrador</td>
   <td>
    <ul>
     <li>estar na página de Login Admin </li>
