@@ -210,6 +210,10 @@ https://github.com/user-attachments/assets/e7bc7e6d-61af-4f6c-8e0c-c6d847273f08
 
   
   
+
+https://github.com/user-attachments/assets/3049b765-931c-4cda-a8e3-31c428ab72d0
+
+
   
   
   ## Relatório de testes de software
