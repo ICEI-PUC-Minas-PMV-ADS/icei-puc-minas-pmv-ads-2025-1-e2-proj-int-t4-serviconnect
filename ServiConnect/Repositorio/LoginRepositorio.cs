@@ -15,7 +15,7 @@ namespace ServiConnect.Repositorio
 
         public LoginModel BuscarPorEmail(string Email)
         {
-            return _context.Login.FirstOrDefault(x => x.Email == Email);
+            return _context.Login.FirstOrDefault(x => x.Email.ToUpper() == Email.ToUpper());
         }
 
         public LoginModel BuscarPorId(int id)
@@ -61,6 +61,11 @@ namespace ServiConnect.Repositorio
             _context.SaveChanges();
 
             return true;
+        }
+
+        public LoginModel BuscarPorEmailEName(string Name, string Email)
+        {
+            return _context.Login.FirstOrDefault(x => x.Name.ToUpper() == Name.ToUpper() &&  x.Email.ToUpper() == Email.ToUpper());
         }
     }
 }

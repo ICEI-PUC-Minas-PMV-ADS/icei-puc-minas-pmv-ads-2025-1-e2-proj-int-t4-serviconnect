@@ -31,5 +31,16 @@ namespace ServiConnect.Models
         {
             return password == Password;
         }
+
+        public string GerarNovoPassword()
+        {
+            string novoPassword = Guid.NewGuid().ToString().Substring(0, 8);
+            Password = novoPassword;
+            return novoPassword;
+        }
+
+
+
+
     }
 }
