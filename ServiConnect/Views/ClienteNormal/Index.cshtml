@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ServiConnect.Models.Prestador>
+
+@{
+    ViewData["Title"] = "Prestadores";
+}
+
+<h1>Prestadores Cadastrados</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Profissão)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Informações)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Profissão)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Informações)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="ClienteNormal" asp-action="Details" role="button">detalhes</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
